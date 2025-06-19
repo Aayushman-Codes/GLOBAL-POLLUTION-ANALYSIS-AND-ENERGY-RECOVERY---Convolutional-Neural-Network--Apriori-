@@ -2,7 +2,7 @@
 **Global Pollution Analysis and Energy Recovery using Convolutional Neural Network (Apriori Algorithm)**
 
 This model was built on Kaggle Notebook since the code might not work on Jupyter Notebook due to version diferences or the use of Jupyter Web (which isnt the problem with Kaggle Notebook). The main source code utilises Machine Learning Algorithms specified to give the required output (included with the code itself).
-
+ 
 **Original Kaggle Notebook Link:** https://www.kaggle.com/code/aayushmancodez/global-pollution-analysis-cnn-v9
 
 **To run the model:**
