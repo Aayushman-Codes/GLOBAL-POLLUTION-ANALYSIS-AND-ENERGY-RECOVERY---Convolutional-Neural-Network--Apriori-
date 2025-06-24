@@ -21,4 +21,5 @@ Type of Model: Convolutional Neural Network (Apriori Algorithm)
 
 Objective: The goal of this project is to analyze global pollution data to understand the relationship between pollution levels (air, water, soil) and energy recovery across different countries. By leveraging the Apriori algorithm, we aim to uncover hidden associations between pollution factors and energy consumption that can guide strategies for pollution control and energy optimization. This dataset will be used for Apriori Algorithm and evaluation/validation techniques.
 
-Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn
+Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, tensorflow, keras
+
